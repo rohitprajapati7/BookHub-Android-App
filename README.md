@@ -20,7 +20,7 @@ It is a simple Free books reading app.
 <br>
 <br>
 <br>
-![IMG_20210120_225623](https://user-images.githubusercontent.com/56448711/105229090-69497100-5b89-11eb-861b-b4fcf4f3daf5.jpg)
+![IMG_20210120_225623](https://user-images.githubusercontent.com/56448711/105230299-27b9c580-5b8b-11eb-8905-16890edb8eac.jpg)
 
 <br>
 <br>
