@@ -1,3 +1,3 @@
 # BookHub-Android-App
 
-It is a simple Free reading book app.
+It is a simple Free books reading app.
